@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **Android,Kotlin**
+- 💬 Ask me about **Kotlin Multiplatform, Jetpack Compose**
 
 - 📫 How to reach me **rishabh1112131415@gmail.com**
 
