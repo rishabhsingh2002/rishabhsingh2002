@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Kotlin Multiplatform, Jetpack Compose**
 
-- 📫 How to reach me **rishabh1112131415@gmail.com**
+- 📫 How to reach me **rishabh71.dev@gmail.com**
 
 - ⚡ Fun fact **I love going to the GYM**
 
